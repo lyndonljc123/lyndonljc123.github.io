@@ -1,1 +1,18 @@
 /* Copy and paste your CSS from CodePen into here */
+body  {background-color: bisque;
+text-align: center;}
+
+#image {
+  max-width: 100%; height: auto;
+  display: block; margin-left: auto;
+  margin-right: auto;
+  }
+
+#main {font-family: Helvetica; color: rgb(95, 53, 2);
+}
+
+#title {margin-bottom: -5px; font-size: 60px}
+
+#tribute-info {font-size: 20px}
+
+ol {list-style: none;}
